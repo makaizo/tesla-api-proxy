@@ -1,0 +1,5 @@
+dotenv==0.0.5
+(pip install python-dotenv)
+
+pythopaho-mqtt==2.1.0
+(pip install paho-mqtt)
